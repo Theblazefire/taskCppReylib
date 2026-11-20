@@ -1,0 +1,18 @@
+{
+  "title": "New Task",
+  "version": "0.2",
+  "tasks": [
+    {
+      "text": "",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+        { "text": "", "status": 0 },
+        { "text": "", "status": 0 },
+        { "text": "", "status": 0 },
+        { "text": "", "status": 0 },
+        { "text": "", "status": 0 }
+      ]
+    }
+  ]
+}

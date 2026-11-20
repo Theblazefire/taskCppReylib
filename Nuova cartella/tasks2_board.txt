@@ -1,0 +1,15 @@
+TITLE|New Task
+T|1|Main Task di esempio
+H|demo
+S|2|Clicca la pillola destra (o tasto destro) per cambiare colore
+S|3|Clicca il testo per scrivere senza limiti
+S|2|Trascina una subtask su un'altra colonna!
+T|0|
+S|0|
+T|3|
+S|0|
+S|1|
+T|0|1
+T|0|
+T|0|
+T|0|

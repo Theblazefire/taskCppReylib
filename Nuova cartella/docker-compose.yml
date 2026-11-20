@@ -1,0 +1,15 @@
+services:
+  tasks2:
+    build: .
+    image: tasks2-raylib
+    container_name: tasks2_app
+    environment:
+      - DISPLAY=:0
+      - WAYLAND_DISPLAY=wayland-0
+      - XDG_RUNTIME_DIR=/mnt/wslg/runtime-dir
+    volumes:
+      - /run/desktop/mnt/host/wslg/.X11-unix:/tmp/.X11-unix
+      - /run/desktop/mnt/host/wslg:/mnt/wslg
+      - ./dati_progetto:/data
+    working_dir: /data
+    command: /app/Tasks2_linux

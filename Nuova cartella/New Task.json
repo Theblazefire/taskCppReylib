@@ -1,0 +1,61 @@
+{
+  "title": "New Task",
+  "version": "0.2",
+  "tasks": [
+    {
+      "text": "Main Task di esempio",
+      "status": 4,
+      "tags": ["demo"],
+      "subtasks": [
+        { "text": "Clicca la pillola destra (o tasto destro) per cambiare colore", "status": 4 },
+        { "text": "Clicca il testo per scrivere senza limiti", "status": 3 },
+        { "text": "Trascina una subtask su un'altra colonna!", "status": 4 }
+      ]
+    },
+    {
+      "text": "",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+        { "text": "", "status": 0 }
+      ]
+    },
+    {
+      "text": "",
+      "status": 3,
+      "tags": [],
+      "subtasks": [
+        { "text": "", "status": 0 },
+        { "text": "", "status": 1 }
+      ]
+    },
+    {
+      "text": "1",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+      ]
+    },
+    {
+      "text": "",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+      ]
+    },
+    {
+      "text": "",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+      ]
+    },
+    {
+      "text": "",
+      "status": 0,
+      "tags": [],
+      "subtasks": [
+      ]
+    }
+  ]
+}
